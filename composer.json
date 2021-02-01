@@ -16,7 +16,7 @@
         "pimple/pimple": "2.0.*@dev",
         "knplabs/gaufrette": "0.1.*",
         "gargron/fileupload": ">=1.0, <2.0",
-        "symfony/http-foundation": "2.3.*",
+        "symfony/http-foundation": "2.8.*",
         "imagine/imagine": "~0.5.0",
         "stack/builder": "1.0.*@dev",
         "lightsuner/stack-codeigniter": "dev-develop",
